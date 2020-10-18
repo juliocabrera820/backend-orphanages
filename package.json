@@ -1,0 +1,8 @@
+{
+  "name": "backend-orphanages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:juliocabrera820/backend-orphanages.git",
+  "author": "julio cabrera <juliocabrera820@gmail.com>",
+  "license": "MIT"
+}
